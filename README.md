@@ -37,21 +37,29 @@ Each solution in this repository adheres to a disciplined engineering workflow:
 | 11  | **Count Positives & Sum Negatives**        |  `8 kyu`   |        `Arrays`         | Input Validation, `null` checks, Counters               | [View Code](./11-%20Count-of-positives-sum-of-negativ.../) |
 | 12  | **Double Char**                            |  `8 kyu`   |        `Strings`        | `split()`, `map()`, `repeat()`, `join()`, `for...of`    |            [View Code](./12-%20Double%20Char/)             |
 | 13  | **Basic Mathematical Operations**          |  `8 kyu`   |  `Fundamentals / Math`  | `if Statements`, `switch`, `Arithmetic Operators`       |      [View Code](./13-basic-mathematical-operations/)      |
-| 13  | **To square(root) or not to square(root)** |  `8 kyu`   |     `Arrays / Math`     | `map()`, `Math.sqrt()`, `Number.isInteger()`, `Ternary` |       [View Code](./13-to-square-or-not-to-square/)        |
-| 14  | **Count by X**                             |  `8 kyu`   | `Fundamentals / Arrays` | `for loop`, `push()`, `Arithmetic Operators`            |               [View Code](./14-count-by-x/)                |
+| 14  | **To square(root) or not to square(root)** |  `8 kyu`   |     `Arrays / Math`     | `map()`, `Math.sqrt()`, `Number.isInteger()`, `Ternary` | [View Code](./14-%20To-Square-Root-Or-Not-To-Square-Root/) |
+| 15  | **Count by X**                             |  `8 kyu`   | `Fundamentals / Arrays` | `for loop`, `push()`, `Arithmetic Operators`            |            [View Code](./15-%20Count%20By%20X/)            |
 
 ---
 
-## 📂 Repository Structure
+### 📁 Repository Structure
 
 ```text
-Problem-Solving-in-JS/
-├── 1- Even Odd/
+javascript-problem-solving/
+├── 01- Even Odd/
+│   ├── index.html
 │   └── script.js
-├── 2- Sum Of Positives/
+├── 02- Sum Of Positives/
+│   ├── index.html
 │   └── script.js
 ├── ...
-├── 11- Count-of-positives-sum-of-negatives/
+├── 13-basic-mathematical-operations/
+│   ├── index.html
+│   └── script.js
+├── 14- To-Square-Root-Or-Not-To-Square-Root/
+│   ├── index.html
+│   └── script.js
+├── 15- Count By X/
 │   ├── index.html
 │   └── script.js
 └── README.md
