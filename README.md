@@ -39,7 +39,8 @@ Each solution in this repository adheres to a disciplined engineering workflow:
 | 13  | **Basic Mathematical Operations**          |  `8 kyu`   |  `Fundamentals / Math`  | `if Statements`, `switch`, `Arithmetic Operators`       |      [View Code](./13-basic-mathematical-operations/)      |
 | 14  | **To square(root) or not to square(root)** |  `8 kyu`   |     `Arrays / Math`     | `map()`, `Math.sqrt()`, `Number.isInteger()`, `Ternary` | [View Code](./14-%20To-Square-Root-Or-Not-To-Square-Root/) |
 | 15  | **Count by X**                             |  `8 kyu`   | `Fundamentals / Arrays` | `for loop`, `push()`, `Arithmetic Operators`            |            [View Code](./15-%20Count%20By%20X/)            |
-
+| 16 | **Remove String Spaces** | `8 kyu` | `Fundamentals / Strings` | `split()`, `join()`, `for loop` | [View Code](./16-%20Remove%20String%20Spaces/) |
+| 17 | **Invert values** | `8 kyu` | `Fundamentals / Arrays` | `for loop`, `push()`, `map()`, `Math Operators` | [View Code](./17-%20Invert%20Values/) |
 ---
 
 ### 📁 Repository Structure
