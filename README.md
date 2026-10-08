@@ -43,6 +43,7 @@ Each solution in this repository adheres to a disciplined engineering workflow:
 | 17  | **Invert values**                                   |  `8 kyu`   | `Fundamentals / Arrays`  | `for loop`, `push()`, `map()`, `Math Operators`         |                      [View Code](./17-%20Invert%20Values/)                      |
 | 18  | **Convert boolean values to strings 'Yes' or 'No'** |  `8 kyu`   |      `Fundamentals`      | `if...else`, `Ternary Operator`, `Booleans`             | [View Code](./18-%20Convert%20boolean%20values%20to%20strings%20Yes%20or%20No/) |
 | 19  | **Reversing Words in a String**                     |  `8 kyu`   | `Fundamentals / Strings` | `trim()`, `split()`, `reverse()`, `join()`              |            [View Code](./19-%20Reversing%20Words%20in%20a%20String/)            |
+| 20  | **Keep Hydrated!**                                  |  `8 kyu`   |   `Algorithms / Math`    | `Math.floor()`, `Arithmetic Operators`                  |                     [View Code](./20-%20Keep%20Hydrated!/)                      |
 
 ### 📁 Repository Structure
 
