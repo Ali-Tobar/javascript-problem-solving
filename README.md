@@ -54,6 +54,10 @@ Each solution in this repository adheres to a disciplined engineering workflow:
 | 28  | **Do I get a bonus?**                                 |  `8 kyu`   |    `Strings / Logic`     | `Ternary Operator`, `Template Literals`, `Conditionals`         |                 [View Code](./28-%20Do%20I%20Get%20A%20Bonus/)                  |
 | 29  | **Remove an exclamation mark from the end of string** |  `8 kyu`   | `Fundamentals / Strings` | `endsWith()`, `slice()`, `Ternary Operator`                     |                    [View Code](./29-%20Exclamation%20marks/)                    |
 | 30  | **Are You Playing Banjo?**                            |  `8 kyu`   | `Fundamentals / Strings` | `charAt()`, `startsWith()`, `Template Literals`, `Ternary`      |                [View Code](./30-%20Are%20You%20Playing%20Banjo/)                |
+| 31  | **Removing Elements**                                 |  `8 kyu`   |     `Lists / Arrays`     | `for loop`, `push()`, `filter()`, `Modulo Operator`             |                    [View Code](./31-%20Removing%20Elements/)                    |
+
+| 32 | **Unfinished Loop - Bug Fixing #1** | `8 kyu` | `Debugging / Fundamentals` | `for loop`, `Infinite Loop`, `Increment Operator (++)` | [View Code](./32-%20Unfinished-Loop-Bug-Fixing-1/) |
+| 33 | **Transportation On Vacation** | `8 kyu` | `Fundamentals / Control Flow` | `if / else if`, `Operators (*, -=)`, `Conditional Logic` | [View Code](./33-%20Transportation%20On%20Vacation/) |
 
 ### 📁 Repository Structure
 
